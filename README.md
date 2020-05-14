@@ -1,3 +1,3 @@
 # Multi_HC_05
 
-This repo contains the code used for allowing a master HC_05 communicate with multiple slave HC_05s.
+Link to the documentation: https://docs.google.com/document/d/18_w-sk4-AaEDmZWx6n10tDYU_PKoS-HyeB50JDDYWA0/edit?usp=sharing
